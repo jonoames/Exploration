@@ -12,14 +12,13 @@ Vuforia Package | <a href="www.vuforia.com">More Info</a>
 <h4>To be downloaded:</h4>
 <br/>
 AR Tracking markers | <a href="http://imgur.com/a/ZtX7i"> Download </a>
-<p>&#35;</p>
-Floating Island Assets | <a href="https://drive.google.com/open?id=0B-Lh31_KhIdzaFNFdEVXODZMM1U">Download &#40; 278 mb &#41; </a>
-<p>&#35;</p>
+</br/>Floating Island Assets | <a href="https://drive.google.com/open?id=0B-Lh31_KhIdzaFNFdEVXODZMM1U">Download &#40; 278 mb &#41; </a>
+<br/>
 Standard assets
-Enviroment
-Particle Systems
-<br/
+<p>Enviroment</p>
+<p>Particle Systems</p>
+<br/>
 
 The Floating Island asset Derives from:
-Rocks Pack | <a href="https://www.assetstore.unity3d.com/en/#!/content/2452"> Link &#40; 476 MB &#41;</a>
-Rocks and Boulders 2 | <a href="https://www.assetstore.unity3d.com/en/#!/content/6947">Link &#40; 337.5 MB &#41;</a>
+<p>Rocks Pack | <a href="https://www.assetstore.unity3d.com/en/#!/content/2452"> Link &#40; 476 MB &#41;</a></p>
+<p>Rocks and Boulders 2 | <a href="https://www.assetstore.unity3d.com/en/#!/content/6947">Link &#40; 337.5 MB &#41;</a></p>
