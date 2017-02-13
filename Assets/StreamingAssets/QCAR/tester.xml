@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="dl10" size="15.000000 15.000000" />
+    <ImageTarget name="dl9" size="15.000000 15.000000" />
+    <ImageTarget name="dl8" size="15.000000 7.500000" />
+    <ImageTarget name="dl7" size="15.000000 7.500000" />
+    <ImageTarget name="dl3" size="15.000000 7.500000" />
+    <ImageTarget name="dl4" size="15.000000 7.500000" />
+    <ImageTarget name="Untitled-1" size="15.000000 19.411764" />
+    <ImageTarget name="LogoEuforiaOfBeauty" size="15.000000 5.215633" />
+  </Tracking>
+</QCARConfig>
